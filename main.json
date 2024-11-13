@@ -1,0 +1,93 @@
+[
+  {
+    "project_name": "CV Riau Merah Putih",
+    "project_category": "Logo Design / UI/UX Design / Landing Page Dev",
+    "technology_used": {
+      "Wordpress": true
+    },
+    "url_website": {
+      "enabled": true,
+      "link": "https://riaumerahputih.com/"
+    },
+    "images": {
+      "img_project_1": "https://utfs.io/f/ANGoLwqMlcUfgEJvlE1rMcRJdTVNHx52WlsU6Bwv4L7zojf0",
+      "img_project_2": "https://utfs.io/f/ANGoLwqMlcUfYUFEYYTekT1KSV7sFJUN98DyQZqLXbGzuvnm",
+      "img_project_3": "https://utfs.io/f/ANGoLwqMlcUfYJx7EoTekT1KSV7sFJUN98DyQZqLXbGzuvnm",
+      "img_project_4": "https://utfs.io/f/ANGoLwqMlcUftfvkTLD5jIMRApY1ZEvcrC8QHVWNJqaouSOB"
+    },
+    "banner_image": "https://utfs.io/f/ANGoLwqMlcUfgEJvlE1rMcRJdTVNHx52WlsU6Bwv4L7zojf0"
+  },
+  {
+    "project_name": "PT Langgam Gema Mandiri",
+    "project_category": "Logo Design",
+    "technology_used": {},
+    "url_website": {
+      "enabled": false,
+      "link": ""
+    },
+    "images": {
+      "img_project_1": "https://utfs.io/f/ANGoLwqMlcUfK7oClkz3XHz0ymog8J5bZhCRAfDSeNl1q3Gu",
+      "img_project_2": "https://utfs.io/f/ANGoLwqMlcUfSZqiHPJkGncHPiRDMotlKvsb8ICTAE0waZeX",
+      "img_project_3": "https://utfs.io/f/ANGoLwqMlcUfzSTehGQ1JNbZ243eQHI0LB5X7hrwCfvylmpV",
+      "img_project_4": "https://utfs.io/f/ANGoLwqMlcUfgCkbdYJ1rMcRJdTVNHx52WlsU6Bwv4L7zojf"
+    }
+  },
+  {
+    "project_name": "Inwa Material Supply",
+    "project_category": "Logo Design / Brand Kit Design",
+    "technology_used": {},
+    "url_website": {
+      "enabled": false,
+      "link": ""
+    },
+    "images": {
+      "img_project_1": "https://utfs.io/f/ANGoLwqMlcUfIHUz2uSrVBA0DfCZ8mQTxNOsqE2jXWpMkavn",
+      "img_project_2": "https://utfs.io/f/ANGoLwqMlcUffijuAqnZSBA7EWgnduNzQXLMGb23kP0Z1cet",
+      "img_project_3": "https://utfs.io/f/ANGoLwqMlcUff2NaPqZSBA7EWgnduNzQXLMGb23kP0Z1cetx",
+      "img_project_4": "https://utfs.io/f/ANGoLwqMlcUfJ0Ve0EFzOJWquvpVNM67nXIEA90LtC4gUFkd"
+    }
+  },
+  {
+    "project_name": "Transmovey",
+    "project_category": "Logo Design / UI/UX Design / Mobile App Dev / Web App Dev",
+    "technology_used": {
+      "Laravel": true,
+      "Express JS": true,
+      "Kotlin": true
+    },
+    "url_website": {
+      "enabled": false,
+      "link": ""
+    },
+    "images": {
+      "img_project_1": "https://utfs.io/f/ANGoLwqMlcUfSnQF7LJkGncHPiRDMotlKvsb8ICTAE0waZeX"
+    }
+  },
+  {
+    "project_name": "PT Soil Bio Energy",
+    "project_category": "Logo Design",
+    "technology_used": {},
+    "url_website": {
+      "enabled": false,
+      "link": ""
+    },
+    "images": {
+      "img_project_1": "https://utfs.io/f/ANGoLwqMlcUfkacL88CndlyP7iVImRbfrxEjS85O9Uc3qXoz"
+    }
+  },
+  {
+    "project_name": "Victor Coffee Shop",
+    "project_category": "Logo Design",
+    "technology_used": {},
+    "url_website": {
+      "enabled": false,
+      "link": ""
+    },
+    "images": {
+      "img_project_1": "https://utfs.io/f/ANGoLwqMlcUfGBD47ys9QdRfi1MunezsIVwS9qX5cv826KDC",
+      "img_project_2": "https://utfs.io/f/ANGoLwqMlcUfhjZZfOlvYFb4VIqOBJuo2afmgGWPckydN9p3",
+      "img_project_3": "https://utfs.io/f/ANGoLwqMlcUftPDqqL5jIMRApY1ZEvcrC8QHVWNJqaouSOBk",
+      "img_project_4": "https://utfs.io/f/ANGoLwqMlcUfBcQCRQzp67csxJfgO98nFiUbSov12CZueMQV"
+    }
+  }
+]
